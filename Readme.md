@@ -3,6 +3,10 @@
 
 A Quick start note taking template for Obsidian
 
+- You can fork 🍴 this repository and start using it 
+- Remember to make fork private ❗
+- Pull requests with new feature are welcomed 👼🏻
+
 # Screenshots
 
 ## Daily Notes

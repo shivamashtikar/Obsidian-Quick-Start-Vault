@@ -45,7 +45,7 @@
               "state": {
                 "file": "Readme.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
