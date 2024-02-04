@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "690d0073b4f803c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "956ad49550ddfcbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a41260c9120db1c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "78c726da7f2f5536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d260dd0a72e117f8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c4a1f11b073830d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024/Feb/03 Saturday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "342db58a6b21192e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe88a8844206c1d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "60621381f471978f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b130d6b972cd85c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b2c81369a46229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f2ac8bc0228720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "099b6a5bfd9a361c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#thought/product",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f3fbc920a92a7266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "368306fc3b50b511",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03d89ea315b98bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c817aa70173ba6fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48cbc6a29081950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2024/Feb/03 Saturday.md"
+              }
+            }
+          },
+          {
+            "id": "09bf36e9ddf7dee2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a8c935b12e88a66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d732cfebba14258a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ef354720ecc0a98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3037a9f85a1dfdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2024/Feb/03 Saturday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "862517186b640fd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2024/Feb/03 Saturday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1c4a1f11b073830d",
+  "lastOpenFiles": [
+    "Daily Notes/2024/Feb/04 Sunday.md",
+    "Daily Notes/2024/Feb/03 Saturday.md",
+    "Daily Notes/2024/Feb",
+    "Daily Notes/2024",
+    "Daily Notes",
+    "Tasks.md",
+    "Personal/Note To Self.md",
+    "Obsidian/Archived Queries.md",
+    "Obsidian/Issues.md",
+    "Obsidian/Archived Queries",
+    "Obsidian",
+    "Personal/Thoughts.md",
+    "Daily Notes/2023/Nov/23 Thursday.md",
+    "Daily Notes/2023/Nov/28 Tuesday.md",
+    "Daily Notes/2023/Dec/27 Wednesday.md",
+    "Daily Notes/2023/Dec/13 Wednesday.md",
+    "Tracker.md",
+    "Commands.md",
+    "Personal/Weight.md",
+    "Templates/Daily.md",
+    "Readme.md",
+    "Untitled.canvas",
+    "Projects.md",
+    "output.md",
+    "omz.md",
+    "Programming Notes/Fedora.md",
+    "Daily Notes/2024/Feb/02 Friday.md",
+    "Daily Notes/2024/Feb/01 Thursday.md",
+    "Office/SDK/Projects/POC Intelligence to EC SDK.md",
+    "Personal/Plan/Year 2024.md",
+    "Personal/Side Projects/EggMan.md",
+    "youtube",
+    "Templates/Rating",
+    "Office/Dashboard/Outage Solution doc.docx",
+    "Office/Dashboard",
+    "People"
+  ]
+}

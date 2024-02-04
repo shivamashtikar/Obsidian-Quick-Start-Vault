@@ -1,0 +1,32 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "mobilePullAction": "command-palette:open",
+  "showLineNumber": false,
+  "mobileToolbarCommands": [
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-checklist-status",
+    "editor:redo",
+    "editor:undo",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:configure-toolbar"
+  ]
+}
