@@ -2,8 +2,7 @@
 # Daily Note
 
 - Use daily notes daily for taking notes
-- Create Daily notes using calendar or Daily Notes button
-- write in different section as needed
+- 
 
 # Templates
 
@@ -11,7 +10,9 @@ Modify templates  as per your taste
 
 ## [[Templates/Daily|Daily Notes]]
 
-- template for daily note, 
+- template for daily note
+- Create Daily notes using calendar or Daily Notes button
+- write in different section as needed
 ## [[Templates/Project|Project]]
 
 - Use this template for creating Project Notes
@@ -24,4 +25,10 @@ Modify templates  as per your taste
 
 - Creates Sub heading and discussion tag with date of creation
 - this tag is then referred in [[Templates/Daily|Daily Note]] of that day, this way all the discussion of the day get linked at one place
-- Use [[Templates/Discussion meta|Discussion meta]] for sub
+- Use [[Templates/Discussion meta|Discussion meta]] for creating additional tags if discussion happens again with same set of people
+
+## [[Templates/Person Info|Person Info]]
+
+- To list details related to person
+- mention person in notes as you create, this will help in grouping all the conversation with that person
+- From Book 
