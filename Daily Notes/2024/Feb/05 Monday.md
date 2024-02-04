@@ -1,9 +1,9 @@
 ---
-id: {{ date:YYYYMMDD }}
+id: 20240205
 type: daily-note
 ---
 
-# 📅 {{title}}
+# 📅 2024/Feb/05 Monday
 
 ## 🗒️ Scratch pad
 
@@ -15,13 +15,13 @@ type: daily-note
 
 ### ⏰ Pending
 ```tasks
-due on or before {{date:YYYY-MM-DD}}
+due on or before 2024-02-05
 not done
 ```
 
 ### ⏳ Due this week
 ```tasks
-due between <% tp.date.weekday("YYYY-MM-DD", 0) %> and <% tp.date.weekday("YYYY-MM-DD", 6) %>
+due between 2024-02-04 and 2024-02-10
 not done
 ```
 
@@ -29,7 +29,7 @@ not done
 ## 📣 Meetings
 
 ```query
-tag: #discussion/note/{{date:YYYY-MM-DD}}
+tag: #discussion/note/2024-02-05
 ```
 
 - 

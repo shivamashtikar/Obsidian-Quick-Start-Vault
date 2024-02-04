@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/Feb/03 Saturday.md",
+                "file": "Daily Notes/2024/Feb/04 Sunday.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,9 +55,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/Feb/Work Project.md",
+                "file": "Daily Notes/2024/Feb/04 Sunday.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024/Feb/Work Project.md"
+                "file": "Daily Notes/2024/Feb/04 Sunday.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024/Feb/Work Project.md",
+                "file": "Daily Notes/2024/Feb/04 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024/Feb/Work Project.md",
+                "file": "Daily Notes/2024/Feb/04 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,12 +245,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "099b6a5bfd9a361c",
+  "active": "c705b90cef2cc21e",
   "lastOpenFiles": [
-    "Daily Notes/2024/Feb/03 Saturday.md",
+    "Daily Notes/2024/Feb/05 Monday.md",
     "Daily Notes/2024/Feb/Work Project.md",
-    "Work",
+    "Templates/Daily.md",
+    "Templates/Discussion header.md",
     "Daily Notes/2024/Feb/04 Sunday.md",
+    "Daily Notes/2024/Feb/03 Saturday.md",
+    "Work",
     "Daily Notes/2024/Feb",
     "Daily Notes/2024",
     "Daily Notes",
@@ -268,7 +271,6 @@
     "Tracker.md",
     "Commands.md",
     "Personal/Weight.md",
-    "Templates/Daily.md",
     "Readme.md",
     "Untitled.canvas",
     "Projects.md",
@@ -278,8 +280,6 @@
     "Daily Notes/2024/Feb/02 Friday.md",
     "Daily Notes/2024/Feb/01 Thursday.md",
     "Office/SDK/Projects/POC Intelligence to EC SDK.md",
-    "Personal/Plan/Year 2024.md",
-    "Personal/Side Projects/EggMan.md",
     "youtube",
     "Templates/Rating",
     "Office/Dashboard/Outage Solution doc.docx",

@@ -1,4 +1,4 @@
-## Discussion with <% tp.system.prompt("Enter Person name") %>
+## Discussion with 
 
 #discussion/note/{{date}} [time::{{time}}]
 
