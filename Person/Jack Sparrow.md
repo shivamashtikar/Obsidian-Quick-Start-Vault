@@ -2,5 +2,5 @@
 # Information
 
 - contact: last seen on Black Perl
-- company: Pirates of the Carrabian
-- super_power:
+- company: Pirates of the Caribbean
+- super_power: unknown

@@ -29,7 +29,7 @@ not done
 ## 📣 Meetings
 
 ```query
-tag: #discussion/note/2024/Feb/03 Saturday
+tag: #discussion/note/2024-02-03
 ```
 
 - 
