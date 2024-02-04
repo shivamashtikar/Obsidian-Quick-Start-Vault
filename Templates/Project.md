@@ -1,7 +1,7 @@
 
 #project #inProgress
 
-# Colaboraters
+# Collaborators
 
 - 
 
@@ -9,8 +9,6 @@
 
 - 
 # Action Item
-
-^c019cd
 
 ```tasks
 not done 

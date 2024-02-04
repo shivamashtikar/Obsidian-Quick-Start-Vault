@@ -1,7 +1,7 @@
 
 #project #inProgress
 
-# Colaboraters
+# Collaborators
 
 - [[Person/Jack Sparrow]]
 - [[Person/Deadpool]]

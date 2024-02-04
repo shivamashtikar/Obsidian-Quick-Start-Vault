@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily.md",
+                "file": "Templates/Discussion header.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily.md"
+                "file": "Templates/Discussion header.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily.md",
+                "file": "Templates/Discussion header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily.md",
+                "file": "Templates/Discussion header.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,17 +258,22 @@
   },
   "active": "e492e5725825682e",
   "lastOpenFiles": [
+    "Templates/Discussion meta.md",
+    "Templates/Person Info.md",
+    "Work/Another Work Project.md",
+    "Work/Work Project.md",
+    "Templates/Project.md",
+    "Projects.md",
     "Readme.md",
+    "Tasks.md",
+    "Templates/Daily.md",
+    "Thoughts.md",
+    "Note To Self.md",
     "Daily Notes/2024/Feb/04 Sunday.md",
     "Welcome.md",
     "Daily Notes/2024/Feb/03 Saturday.md",
-    "Templates/Daily.md",
     "Templates/Discussion header.md",
-    "Templates/Discussion meta.md",
-    "Templates/Person Info.md",
-    "Templates/Project.md",
     "Daily Notes/2024/Feb/05 Monday.md",
-    "Work/Work Project.md",
     "Person/Deadpool.md",
     "Person/Jack Sparrow.md",
     "Person",
@@ -276,7 +281,6 @@
     "Daily Notes/2024/Feb",
     "Daily Notes/2024",
     "Daily Notes",
-    "Tasks.md",
     "Personal/Note To Self.md",
     "Obsidian/Archived Queries.md",
     "Obsidian/Issues.md",
@@ -287,9 +291,6 @@
     "Daily Notes/2023/Nov/28 Tuesday.md",
     "Daily Notes/2023/Dec/27 Wednesday.md",
     "Daily Notes/2023/Dec/13 Wednesday.md",
-    "Tracker.md",
-    "Commands.md",
-    "Personal/Weight.md",
     "Untitled.canvas",
     "youtube",
     "Templates/Rating",
