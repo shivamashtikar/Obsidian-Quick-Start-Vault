@@ -45,7 +45,7 @@
               "state": {
                 "file": "Readme.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -136,7 +136,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f3fbc920a92a7266",
@@ -255,8 +256,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37f2ac8bc0228720",
+  "active": "1c4a1f11b073830d",
   "lastOpenFiles": [
+    "Readme.md~",
     "assets/Screenshot_20240204_201738.png",
     "Person/Wolverine.md",
     "Readme.md",
@@ -274,7 +276,6 @@
     "assets/Screenshot_20240204_200859.png",
     "assets/Screenshot_20240204_200819 1.png",
     "assets/Screenshot_20240204_200843.png",
-    "assets/Screenshot_20240204_200819.png",
     "Daily Notes/2024/Feb/04 Sunday.md",
     "assets",
     "Thoughts.md",
