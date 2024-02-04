@@ -1,9 +1,9 @@
 
-
+Any list containing #noteToSelf will appear here
 
 ```dataview
 TABLE without ID 
-	rows.L.text as "Note to Self"
+	regexreplace(rows.L.text, "#noteToSelf", "") as "Note to Self"
 FROM #noteToSelf 
 FLATTEN file.lists as L
 WHERE contains(L.text, "#noteToSelf")

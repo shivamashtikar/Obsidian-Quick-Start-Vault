@@ -36,7 +36,7 @@ tag: #discussion/note/2024-02-04
 
 ## 🔗 Links
 
-- 
+- I should **star this repo** https://github.com/shivamashtikar/Obsidian-Quick-Start-Vault 
 
 ## 🧠 Thoughts
 

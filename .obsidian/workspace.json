@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md",
+                "file": "Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note To Self.md",
+                "file": "Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note To Self.md"
+                "file": "Links.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note To Self.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note To Self.md",
+                "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,14 +256,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e492e5725825682e",
+  "active": "37f2ac8bc0228720",
   "lastOpenFiles": [
     "Daily Notes/2024/Feb/04 Sunday.md",
-    "Note To Self.md",
+    "Links.md",
     "Thoughts.md",
-    "Tasks.md",
+    "Note To Self.md",
     "Readme.md",
     "Projects.md",
+    "Tasks.md",
     "Templates/Project.md",
     "Templates/Person Info.md",
     "Templates/Discussion meta.md",
@@ -290,7 +291,6 @@
     "Personal/Thoughts.md",
     "Daily Notes/2023/Nov/23 Thursday.md",
     "Daily Notes/2023/Nov/28 Tuesday.md",
-    "Daily Notes/2023/Dec/27 Wednesday.md",
     "Untitled.canvas",
     "youtube",
     "Templates/Rating",
