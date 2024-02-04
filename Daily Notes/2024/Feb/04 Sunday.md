@@ -40,7 +40,7 @@ tag: #discussion/note/2024-02-04
 
 ## 🧠 Thoughts
 
-- 
+- #noteToSelf Start taking notes daily 
 
 ## 🗓️ Self Log
 
@@ -49,7 +49,7 @@ tag: #discussion/note/2024-02-04
 	    - 
 - [ ] Work on personal projects
 - Physical Activity
-	- [ ] Cult group class
+	- [x] Group classes ✅ 2024-02-04
 	- [ ] Gym Workout
 	- [ ] Trekking
 	- [ ] Swimming
@@ -64,6 +64,6 @@ tag: #discussion/note/2024-02-04
 ### 🥗 Food
 
 - [ ] Breakfast
-- [ ] Lunch
-- [ ] Snacks
+- [x] Lunch ✅ 2024-02-04
+- [x] Snacks ✅ 2024-02-04
 - [ ] Dinner

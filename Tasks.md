@@ -11,7 +11,7 @@ not done
 due this month
 not done
 ```
-# Task pending all 
+# Task pending all from Daily Notes
 ```dataview
 TASK
 FROM "Daily Notes"

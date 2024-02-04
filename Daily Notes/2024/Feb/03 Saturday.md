@@ -11,7 +11,7 @@ type: daily-note
 
 ## ✅ Todo
 
-- [ ] Some important Task 📅 2024-02-05 
+- [ ] Some important Task 📅 2024-02-04 
 
 ### ⏰ Pending
 ```tasks
@@ -40,7 +40,7 @@ tag: #discussion/note/2024-02-03
 
 ## 🧠 Thoughts
 
-- 
+- some thoughts I had today
 
 ## 🗓️ Self Log
 
@@ -49,8 +49,8 @@ tag: #discussion/note/2024-02-03
 	    - 
 - [ ] Work on personal projects
 - Physical Activity
-	- [ ] Cult group class
-	- [ ] Gym Workout
+	- [ ] Group classes
+	- [x] Gym Workout ✅ 2024-02-03
 	- [ ] Trekking
 	- [ ] Swimming
 - [ ] Kept watch on share market
@@ -64,6 +64,6 @@ tag: #discussion/note/2024-02-03
 ### 🥗 Food
 
 - [ ] Breakfast
-- [ ] Lunch
-- [ ] Snacks
-- [ ] Dinner
+- [x] Lunch ✅ 2024-02-03
+- [x] Snacks ✅ 2024-02-03
+- [x] Dinner ✅ 2024-02-03

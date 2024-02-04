@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Discussion header.md",
+                "file": "Note To Self.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Discussion header.md"
+                "file": "Note To Self.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Discussion header.md",
+                "file": "Note To Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Discussion header.md",
+                "file": "Note To Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,21 +258,22 @@
   },
   "active": "e492e5725825682e",
   "lastOpenFiles": [
-    "Templates/Discussion meta.md",
-    "Templates/Person Info.md",
-    "Work/Another Work Project.md",
-    "Work/Work Project.md",
-    "Templates/Project.md",
-    "Projects.md",
-    "Readme.md",
-    "Tasks.md",
-    "Templates/Daily.md",
-    "Thoughts.md",
-    "Note To Self.md",
     "Daily Notes/2024/Feb/04 Sunday.md",
-    "Welcome.md",
+    "Note To Self.md",
+    "Thoughts.md",
+    "Tasks.md",
+    "Readme.md",
+    "Projects.md",
+    "Templates/Project.md",
+    "Templates/Person Info.md",
+    "Templates/Discussion meta.md",
     "Daily Notes/2024/Feb/03 Saturday.md",
+    "Work/Another Work Project.md",
+    "Person/Wolverine.md",
     "Templates/Discussion header.md",
+    "Work/Work Project.md",
+    "Templates/Daily.md",
+    "Welcome.md",
     "Daily Notes/2024/Feb/05 Monday.md",
     "Person/Deadpool.md",
     "Person/Jack Sparrow.md",
@@ -290,7 +291,6 @@
     "Daily Notes/2023/Nov/23 Thursday.md",
     "Daily Notes/2023/Nov/28 Tuesday.md",
     "Daily Notes/2023/Dec/27 Wednesday.md",
-    "Daily Notes/2023/Dec/13 Wednesday.md",
     "Untitled.canvas",
     "youtube",
     "Templates/Rating",

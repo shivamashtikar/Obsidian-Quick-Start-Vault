@@ -18,8 +18,8 @@ path includes {{query.file.path}}
 ```
 
 # Discussions
- 
- ##  Discussion with
+
+## Discussion with [[Person/Wolverine]]
  
 #discussion/note/2024-02-04 [time::19:48]
 
