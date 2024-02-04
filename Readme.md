@@ -3,6 +3,14 @@
 
 A Quick start note taking template for Obsidian
 
+# Screenshots
+
+![[Screenshot_20240204_200819.png]]
+
+ 
+![[assets/Screenshot_20240204_200616.png]]
+
+
 # Templates
 
 Modify templates  as per your taste

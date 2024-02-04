@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,15 +257,19 @@
   },
   "active": "1c4a1f11b073830d",
   "lastOpenFiles": [
-    "Readme.md",
-    "Links.md",
-    "Note To Self.md",
-    "Projects.md",
-    "Tasks.md",
-    "Daily Notes/2024/Feb/03 Saturday.md",
+    "Screenshot_20240204_200819.png",
     "Daily Notes/2024/Feb/04 Sunday.md",
-    "Daily Notes/2024/Feb/05 Monday.md",
+    "Readme.md",
+    "Screenshot_20240204_200424.png",
+    "assets/Screenshot_20240204_200616.png",
+    "Links.md",
+    "assets",
     "Thoughts.md",
+    "Tasks.md",
+    "Projects.md",
+    "Note To Self.md",
+    "Daily Notes/2024/Feb/03 Saturday.md",
+    "Daily Notes/2024/Feb/05 Monday.md",
     "Templates/Project.md",
     "Templates/Person Info.md",
     "Templates/Discussion meta.md",
@@ -289,10 +293,8 @@
     "Obsidian",
     "Personal/Thoughts.md",
     "Daily Notes/2023/Nov/23 Thursday.md",
-    "Daily Notes/2023/Nov/28 Tuesday.md",
     "Untitled.canvas",
     "youtube",
-    "Templates/Rating",
-    "Office/Dashboard/Outage Solution doc.docx"
+    "Templates/Rating"
   ]
 }
