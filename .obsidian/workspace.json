@@ -55,9 +55,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md",
+                "file": "Person/Jack Sparrow.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -124,8 +124,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f3fbc920a92a7266",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md"
+                "file": "Person/Jack Sparrow.md"
               }
             }
           },
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md",
+                "file": "Person/Jack Sparrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024/Feb/04 Sunday.md",
+                "file": "Person/Jack Sparrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,11 +246,14 @@
   },
   "active": "c705b90cef2cc21e",
   "lastOpenFiles": [
+    "Work/Work Project.md",
+    "Person/Jack Sparrow.md",
+    "Templates/Person Info.md",
+    "Person",
+    "Daily Notes/2024/Feb/04 Sunday.md",
     "Daily Notes/2024/Feb/05 Monday.md",
-    "Daily Notes/2024/Feb/Work Project.md",
     "Templates/Daily.md",
     "Templates/Discussion header.md",
-    "Daily Notes/2024/Feb/04 Sunday.md",
     "Daily Notes/2024/Feb/03 Saturday.md",
     "Work",
     "Daily Notes/2024/Feb",
@@ -278,11 +280,8 @@
     "omz.md",
     "Programming Notes/Fedora.md",
     "Daily Notes/2024/Feb/02 Friday.md",
-    "Daily Notes/2024/Feb/01 Thursday.md",
-    "Office/SDK/Projects/POC Intelligence to EC SDK.md",
     "youtube",
     "Templates/Rating",
-    "Office/Dashboard/Outage Solution doc.docx",
-    "Office/Dashboard"
+    "Office/Dashboard/Outage Solution doc.docx"
   ]
 }

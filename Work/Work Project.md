@@ -3,7 +3,10 @@
 
 # Colaboraters
 
-- 
+- [[Person/Jack Sparrow]]
+- [[Person/Deadpool]]
+- [[Person/Wolverine]]
+- [[Person/James Bond]]
 
 # Details
 
@@ -17,7 +20,7 @@ path includes {{query.file.path}}
 
 # Discussions
 
-## Discussion with Jack Sparrow, Deadpool and Wolverine
+## Discussion with [[Jack Sparrow]], [[Deadpool]] and [[Wolverine]]
 
 #discussion/note/2024-02-03 [time::19:07]
 
@@ -29,7 +32,7 @@ path includes {{query.file.path}}
 - [ ] Some action item from this discussion
 - [ ] Some more action items
 
-## Discussion with James Bond
+## Discussion with [[James Bond]]
 
 #discussion/note/2024-02-04 [time::19:09]
 
