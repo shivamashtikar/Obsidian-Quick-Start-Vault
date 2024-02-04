@@ -31,4 +31,6 @@ Modify templates  as per your taste
 
 - To list details related to person
 - mention person in notes as you create, this will help in grouping all the conversation with that person
-- From Book 
+- From Book [How to talk to anyone](https://www.goodreads.com/en/book/show/35210)
+	> **Technique #76: the business card dossier**
+		- Right after you talk to someone at a party, write down notes to remind you details of the conversation

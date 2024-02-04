@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Templates/Daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Templates/Daily.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,8 +258,8 @@
   },
   "active": "e492e5725825682e",
   "lastOpenFiles": [
-    "Daily Notes/2024/Feb/04 Sunday.md",
     "Readme.md",
+    "Daily Notes/2024/Feb/04 Sunday.md",
     "Welcome.md",
     "Daily Notes/2024/Feb/03 Saturday.md",
     "Templates/Daily.md",
@@ -290,7 +290,6 @@
     "Tracker.md",
     "Commands.md",
     "Personal/Weight.md",
-    "Readme.md",
     "Untitled.canvas",
     "youtube",
     "Templates/Rating",
