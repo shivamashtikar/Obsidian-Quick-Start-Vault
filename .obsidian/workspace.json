@@ -41,11 +41,9 @@
             "id": "1c4a1f11b073830d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot_20240204_201153.png"
               }
             }
           },
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Screenshot_20240204_201153.png"
               }
             }
           },
@@ -211,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Screenshot_20240204_201153.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Screenshot_20240204_201153.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,19 +253,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c4a1f11b073830d",
+  "active": "37f2ac8bc0228720",
   "lastOpenFiles": [
+    "Projects.md",
+    "Links.md",
+    "Note To Self.md",
+    "Readme.md",
+    "Screenshot_20240204_200559.png",
+    "assets/Screenshot_20240204_200454.png",
+    "Screenshot_20240204_201153.png",
+    "Work/Work Project.md",
+    "Screenshot_20240204_201109.png",
+    "assets/Screenshot_20240204_200521.png",
+    "Screenshot_20240204_200859.png",
+    "Screenshot_20240204_200819 1.png",
+    "Screenshot_20240204_200843.png",
     "Screenshot_20240204_200819.png",
     "Daily Notes/2024/Feb/04 Sunday.md",
-    "Readme.md",
     "Screenshot_20240204_200424.png",
-    "assets/Screenshot_20240204_200616.png",
-    "Links.md",
     "assets",
     "Thoughts.md",
     "Tasks.md",
-    "Projects.md",
-    "Note To Self.md",
     "Daily Notes/2024/Feb/03 Saturday.md",
     "Daily Notes/2024/Feb/05 Monday.md",
     "Templates/Project.md",
@@ -276,7 +282,6 @@
     "Work/Another Work Project.md",
     "Person/Wolverine.md",
     "Templates/Discussion header.md",
-    "Work/Work Project.md",
     "Templates/Daily.md",
     "Welcome.md",
     "Person/Deadpool.md",
