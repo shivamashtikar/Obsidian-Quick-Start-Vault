@@ -35,6 +35,24 @@ A Quick start note taking template for Obsidian
 
 ![](./assets/Screenshot_20240204_201738.png)
 
+# Main Community Plugins used
+
+- obsidian-advanced-slides
+- table-editor-obsidian
+- calendar
+- dataview
+- obsidian-dictionary-plugin
+- cm-editor-syntax-highlight-obsidian
+- obsidian-excalidraw-plugin
+- obsidian-icon-folder
+- url-into-selection
+- obsidian-mind-map
+- obsidian-tasks-plugin
+- obsidian-git
+- obsidian-pandoc
+- templater-obsidian
+
+
 # Templates
 
 Modify templates  as per your taste 😋
