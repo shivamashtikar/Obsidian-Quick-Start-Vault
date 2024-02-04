@@ -1,5 +1,5 @@
 ---
-id: 20240204
+id: {{ date:YYYYMMDD }}
 type: daily-note
 ---
 
@@ -29,7 +29,7 @@ not done
 ## 📣 Meetings
 
 ```query
-tag: #discussion/note/2024/Feb/04 Sunday
+tag: #discussion/note/2024-02-04
 ```
 
 - 

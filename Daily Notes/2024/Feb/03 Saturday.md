@@ -11,7 +11,7 @@ type: daily-note
 
 ## ✅ Todo
 
-- [ ] Some important Task 
+- [ ] Some important Task 📅 2024-02-05 
 
 ### ⏰ Pending
 ```tasks
