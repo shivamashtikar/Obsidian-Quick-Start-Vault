@@ -7,29 +7,29 @@ A Quick start note taking template for Obsidian
 
 ## Daily Notes
 
-![./assets/Screenshot_20240204_200819.png]
-![./assets/Screenshot_20240204_200843.png]
-![./assets/Screenshot_20240204_200859.png]
+![](./assets/Screenshot_20240204_200819.png)
+![](./assets/Screenshot_20240204_200843.png)
+![](./assets/Screenshot_20240204_200859.png)
 
 ## Tasks
 
-![./assets/Screenshot_20240204_201623.png]
+![](./assets/Screenshot_20240204_201623.png)
 
 ## Sub sections from Daily Notes
  
-![./assets/Screenshot_20240204_200616.png]
-![./assets/Screenshot_20240204_200521.png]
-![./assets/Screenshot_20240204_200559.png]
+![](./assets/Screenshot_20240204_200616.png)
+![](./assets/Screenshot_20240204_200521.png)
+![](./assets/Screenshot_20240204_200559.png)
 
 ## Projects
 
-![./assets/Screenshot_20240204_201109.png]
-![./assets/Screenshot_20240204_201153.png]
-![./assets/Screenshot_20240204_200454.png]
+![](./assets/Screenshot_20240204_201109.png)
+![](./assets/Screenshot_20240204_201153.png)
+![](./assets/Screenshot_20240204_200454.png)
 
 ## Graph so far
 
-![./assets/Screenshot_20240204_201738.png]
+![](./assets/Screenshot_20240204_201738.png)
 
 # Templates
 
