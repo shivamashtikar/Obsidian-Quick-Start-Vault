@@ -1,8 +1,7 @@
 
-# Daily Note
+# Obsidian Quick Start Notes
 
-- Use daily notes daily for taking notes
-- 
+A Quick start note taking template for Obsidian
 
 # Templates
 

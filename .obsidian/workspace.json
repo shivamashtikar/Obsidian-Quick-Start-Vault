@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links.md"
+                "file": "Daily Notes/2024/Feb/04 Sunday.md"
               }
             }
           },
@@ -185,8 +185,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a8c935b12e88a66d",
@@ -212,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Daily Notes/2024/Feb/04 Sunday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links.md",
+                "file": "Daily Notes/2024/Feb/04 Sunday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,26 +255,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37f2ac8bc0228720",
+  "active": "1c4a1f11b073830d",
   "lastOpenFiles": [
-    "Daily Notes/2024/Feb/04 Sunday.md",
-    "Links.md",
-    "Thoughts.md",
-    "Note To Self.md",
     "Readme.md",
+    "Links.md",
+    "Note To Self.md",
     "Projects.md",
     "Tasks.md",
+    "Daily Notes/2024/Feb/03 Saturday.md",
+    "Daily Notes/2024/Feb/04 Sunday.md",
+    "Daily Notes/2024/Feb/05 Monday.md",
+    "Thoughts.md",
     "Templates/Project.md",
     "Templates/Person Info.md",
     "Templates/Discussion meta.md",
-    "Daily Notes/2024/Feb/03 Saturday.md",
     "Work/Another Work Project.md",
     "Person/Wolverine.md",
     "Templates/Discussion header.md",
     "Work/Work Project.md",
     "Templates/Daily.md",
     "Welcome.md",
-    "Daily Notes/2024/Feb/05 Monday.md",
     "Person/Deadpool.md",
     "Person/Jack Sparrow.md",
     "Person",
