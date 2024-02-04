@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Daily Notes/2024/Feb/05 Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,8 +136,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f3fbc920a92a7266",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Daily Notes/2024/Feb/05 Monday.md"
               }
             }
           },
@@ -212,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Daily Notes/2024/Feb/05 Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Daily Notes/2024/Feb/05 Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,10 +257,14 @@
   },
   "active": "1c4a1f11b073830d",
   "lastOpenFiles": [
+    "Daily Notes/2024/Feb/04 Sunday.md",
+    "Daily Notes/2024/Feb/03 Saturday.md",
+    "Templates/Daily.md",
+    "Daily Notes/2024/Feb/05 Monday.md",
+    "Readme.md",
     "Readme.md~",
     "assets/Screenshot_20240204_201738.png",
     "Person/Wolverine.md",
-    "Readme.md",
     "assets/Screenshot_20240204_201623.png",
     "Tasks.md",
     "assets/Screenshot_20240204_201153.png",
@@ -276,17 +279,13 @@
     "assets/Screenshot_20240204_200859.png",
     "assets/Screenshot_20240204_200819 1.png",
     "assets/Screenshot_20240204_200843.png",
-    "Daily Notes/2024/Feb/04 Sunday.md",
     "assets",
     "Thoughts.md",
-    "Daily Notes/2024/Feb/03 Saturday.md",
-    "Daily Notes/2024/Feb/05 Monday.md",
     "Templates/Project.md",
     "Templates/Person Info.md",
     "Templates/Discussion meta.md",
     "Work/Another Work Project.md",
     "Templates/Discussion header.md",
-    "Templates/Daily.md",
     "Welcome.md",
     "Person/Deadpool.md",
     "Person/Jack Sparrow.md",
@@ -303,7 +302,6 @@
     "Personal/Thoughts.md",
     "Daily Notes/2023/Nov/23 Thursday.md",
     "Untitled.canvas",
-    "youtube",
-    "Templates/Rating"
+    "youtube"
   ]
 }
